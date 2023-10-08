@@ -1,3 +1,13 @@
+"""
+@ProjectName: KNN-study
+@Author: SengYew 975258711@qq.com/fung975258711@gmail.com
+@Create-Date: 2023-10-08 17:06:00
+@LastEditors: SengYew 975258711@qq.com/fung975258711@gmail.com
+@LastEditTime: 2023-10-08 17:06:00
+@gitHub: https://github.com/SeamYao/Study/tree/main/KNN
+@Description: 
+@memo:
+"""
 #KNN
 import pandas as pd
 import math
